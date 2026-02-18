@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil Kakade
-- 👀 I’m interested in Cloud computing, game development.
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Software Testing, Game Testing and Backend Development.
+- 🌱 I’m a Computer Science post graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
